@@ -1,0 +1,40 @@
+{
+  "weapons": {
+    "nails_damage": 2,
+    "nails_fire_cooldown": 0.09,
+    "mjolnir_damage": 5,
+    "mjolnir_cooldown": 0.9,
+    "bomb_damage": 14,
+    "bomb_blast_radius": 60.0
+  },
+  "adaptive_ai": {
+    "aggression_position_weight": 0.4,
+    "aggression_motion_weight": 0.4,
+    "aggression_mic_weight": 0.3,
+    "dive_rate_min_multiplier": 0.75,
+    "dive_rate_max_multiplier": 1.65,
+    "fatigue_ease_cap": 0.35
+  },
+  "combo": {
+    "window_seconds": 2.2,
+    "max_multiplier": 4.0,
+    "step_per_kill": 0.25,
+    "risk_bonus": 1.5,
+    "risk_radius": 160.0
+  },
+  "boss_phases": {
+    "phase_2_hp_fraction": 0.66,
+    "phase_3_hp_fraction": 0.33,
+    "speed_scale": [1.0, 1.18, 1.4]
+  },
+  "sensors": {
+    "tilt_dodge_threshold": 0.55,
+    "tilt_dodge_cooldown": 1.1,
+    "shake_panic_threshold": 0.6,
+    "shake_panic_cooldown": 8.0,
+    "shout_overcharge_threshold": 0.72,
+    "shout_overcharge_sustain": 0.35,
+    "ultimate_cooldown": 20.0,
+    "stealth_light_threshold": 0.55
+  }
+}

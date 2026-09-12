@@ -1,0 +1,13 @@
+pygame-ce>=2.5
+numpy>=1.24
+
+# Required by arduino.app_utils (Bridge/App runtime) when running outside
+# the App Lab container -- these come pre-installed inside the App Lab
+# Docker image, but need to be installed manually in a plain venv.
+msgpack
+requests
+watchdog
+
+# Optional: enables config/game_config.yaml (falls back to
+# config/game_config.json automatically if this isn't installed).
+# pyyaml

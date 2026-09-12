@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "profiles": {
+    "VILTRUM_INVASION": {
+      "position_buckets": [
+        4650,
+        6681,
+        9207,
+        6100,
+        3637
+      ],
+      "weapon_usage": {
+        "A": 390,
+        "B": 83,
+        "X": 7,
+        "Y": 47
+      },
+      "samples": 30270,
+      "avg_aggression": 0.6363636363636376,
+      "shots_fired": {
+        "A": 1447,
+        "B": 55,
+        "X": 6,
+        "Y": 70
+      },
+      "shots_hit": {
+        "A": 389,
+        "B": 82,
+        "X": 14,
+        "Y": 46
+      },
+      "avg_reaction_time": 0.25647474747478444,
+      "risk_tolerance": 0.2999999999999999
+    },
+    "TERRIBLE_TWINS": {
+      "position_buckets": [
+        19203,
+        38585,
+        44120,
+        37874,
+        30771
+      ],
+      "weapon_usage": {
+        "A": 967,
+        "B": 241,
+        "X": 12,
+        "Y": 392
+      },
+      "samples": 170548,
+      "avg_aggression": 0.618909090909092,
+      "shots_fired": {
+        "A": 8265,
+        "B": 200,
+        "X": 11,
+        "Y": 628
+      },
+      "shots_hit": {
+        "A": 966,
+        "B": 240,
+        "X": 16,
+        "Y": 391
+      },
+      "avg_reaction_time": 0.14726000000008696,
+      "risk_tolerance": 0.2999999999999999
+    },
+    "BEAST_AMONG_BEASTS": {
+      "position_buckets": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "weapon_usage": {
+        "A": 1,
+        "B": 1,
+        "X": 1,
+        "Y": 1
+      },
+      "samples": 0,
+      "avg_aggression": 0.5,
+      "shots_fired": {
+        "A": 0,
+        "B": 0,
+        "X": 0,
+        "Y": 0
+      },
+      "shots_hit": {
+        "A": 0,
+        "B": 0,
+        "X": 0,
+        "Y": 0
+      },
+      "avg_reaction_time": 0.6,
+      "risk_tolerance": 0.2999999999999999
+    }
+  },
+  "leaderboard": [
+    {
+      "initials": "ABA",
+      "score": 13883,
+      "layer": "LAYER II: TERRIBLE TWINS",
+      "timestamp": 1788711689.1162298
+    },
+    {
+      "initials": "AAA",
+      "score": 13232,
+      "layer": "LAYER II: TERRIBLE TWINS",
+      "timestamp": 1788710364.302059
+    },
+    {
+      "initials": "AAA",
+      "score": 7985,
+      "layer": "LAYER II: TERRIBLE TWINS",
+      "timestamp": 1788708598.9745023
+    },
+    {
+      "initials": "BAD",
+      "score": 5645,
+      "layer": "LAYER I: VILTRUM INVASION",
+      "timestamp": 1788518760.3072293
+    },
+    {
+      "initials": "AAA",
+      "score": 2454,
+      "layer": "LAYER II: TERRIBLE TWINS",
+      "timestamp": 1788707976.573424
+    }
+  ],
+  "high_score": 26003,
+  "secret_found": false,
+  "oled_stats_hidden": false,
+  "total_runs": 14
+}
