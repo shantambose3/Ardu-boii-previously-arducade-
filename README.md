@@ -4,8 +4,6 @@
 8-bit shooter — *Galactic Raiders* — with an adaptive AI that learns you as
 you play.**
 
-Built for the **Arduino Physical AI Challenge India 2026** (Robu.in × Arduino).
-
 ---
 
 ## What is this?
